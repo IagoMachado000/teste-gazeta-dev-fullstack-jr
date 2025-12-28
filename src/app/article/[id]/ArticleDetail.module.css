@@ -1,0 +1,63 @@
+.container {
+    max-width: 800px; /* Páginas de leitura são mais estreitas para melhor legibilidade */
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.backLink {
+    display: inline-block;
+    margin-bottom: 2rem;
+    color: var(--primary-blue);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.backLink:hover {
+    text-decoration: underline;
+}
+
+.header {
+    margin-bottom: 2rem;
+}
+
+.category {
+    color: var(--primary-blue);
+    font-weight: bold;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+.title {
+    font-family: "Georgia", serif;
+    font-size: 2.5rem;
+    line-height: 1.1;
+    margin: 1rem 0;
+}
+
+.metadata {
+    color: #666;
+    font-size: 0.9rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1rem;
+}
+
+.imageWrapper {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.content {
+    font-family: "Georgia", serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #222;
+}
+
+.notFound {
+    text-align: center;
+    padding: 5rem 0;
+}

@@ -1,42 +1,45 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    --primary-blue: #004a8e;
+    --text-gray: #333;
+    --light-gray: #f4f4f4;
+    --max-width: 1200px;
 }
 
 * {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+body {
+    color: var(--text-gray);
+    line-height: 1.6;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+.container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Layout das duas colunas conforme o seu esboço */
+.home-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 300px; /* 1fr ocupa o resto, sidebar fixa em 300px */
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+/* Responsividade: No mobile, a sidebar vai para baixo */
+@media (max-width: 768px) {
+    .home-wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+
+.news-card {
+    border-bottom: 1px solid #ddd;
+    padding: 1.5rem 0;
+    display: flex;
+    gap: 1rem;
 }
