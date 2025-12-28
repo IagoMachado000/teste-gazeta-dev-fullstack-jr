@@ -1,0 +1,11 @@
+services:
+    app:
+        build: .
+        container_name: gazeta-fullstack-app
+        ports:
+            - "3000:3000"
+        volumes:
+            - .:/app
+            - /app/node_modules # Evita conflitos de node_modules entre host e container
+        environment:
+            - NODE_ENV=development
