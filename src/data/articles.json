@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "1",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2024-07-18",
+        "category": "Educação",
+        "thumbnail": "/images/news1.jpg",
+        "views": 4280
+    },
+    {
+        "id": "2",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2022-03-26",
+        "category": "Educação",
+        "thumbnail": "/images/news2.jpg",
+        "views": 4061
+    },
+    {
+        "id": "3",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2023-08-08",
+        "category": "Educação",
+        "thumbnail": "/images/news3.jpg",
+        "views": 938
+    },
+    {
+        "id": "4",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2023-11-19",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news4.jpg",
+        "views": 2474
+    },
+    {
+        "id": "5",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-04-02",
+        "category": "Finanças",
+        "thumbnail": "/images/news5.jpg",
+        "views": 1818
+    },
+    {
+        "id": "6",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda",
+        "date": "2023-12-02",
+        "category": "Finanças",
+        "thumbnail": "/images/news6.jpg",
+        "views": 3136
+    },
+    {
+        "id": "7",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas ",
+        "date": "2025-02-09",
+        "category": "Carreira",
+        "thumbnail": "/images/news7.jpg",
+        "views": 1607
+    },
+    {
+        "id": "8",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas ",
+        "date": "2025-12-25",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news8.jpg",
+        "views": 365
+    },
+    {
+        "id": "9",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Est",
+        "date": "2022-09-29",
+        "category": "Economia",
+        "thumbnail": "/images/news9.jpg",
+        "views": 4252
+    },
+    {
+        "id": "10",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. ",
+        "date": "2023-06-12",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news10.jpg",
+        "views": 4067
+    },
+    {
+        "id": "11",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo a",
+        "date": "2025-03-08",
+        "category": "Negócios",
+        "thumbnail": "/images/news11.jpg",
+        "views": 4451
+    },
+    {
+        "id": "12",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abor",
+        "date": "2025-11-03",
+        "category": "Economia",
+        "thumbnail": "/images/news12.jpg",
+        "views": 2848
+    },
+    {
+        "id": "13",
+        "title": "Novas Tendências no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicad",
+        "date": "2024-04-26",
+        "category": "Negócios",
+        "thumbnail": "/images/news13.jpg",
+        "views": 3345
+    },
+    {
+        "id": "14",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo",
+        "date": "2025-05-21",
+        "category": "Educação",
+        "thumbnail": "/images/news14.jpg",
+        "views": 4463
+    },
+    {
+        "id": "15",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplic",
+        "date": "2022-01-09",
+        "category": "Educação",
+        "thumbnail": "/images/news15.jpg",
+        "views": 1220
+    },
+    {
+        "id": "16",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidi",
+        "date": "2025-01-26",
+        "category": "Finanças",
+        "thumbnail": "/images/news16.jpg",
+        "views": 4341
+    },
+    {
+        "id": "17",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no",
+        "date": "2024-09-22",
+        "category": "Carreira",
+        "thumbnail": "/images/news17.jpg",
+        "views": 3570
+    },
+    {
+        "id": "18",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicada",
+        "date": "2024-11-27",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news18.jpg",
+        "views": 3624
+    },
+    {
+        "id": "19",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplic",
+        "date": "2022-05-26",
+        "category": "Economia",
+        "thumbnail": "/images/news19.jpg",
+        "views": 3909
+    },
+    {
+        "id": "20",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotid",
+        "date": "2025-04-17",
+        "category": "Educação",
+        "thumbnail": "/images/news20.jpg",
+        "views": 2954
+    },
+    {
+        "id": "21",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda ",
+        "date": "2025-11-10",
+        "category": "Negócios",
+        "thumbnail": "/images/news21.jpg",
+        "views": 2960
+    },
+    {
+        "id": "22",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteú",
+        "date": "2023-02-08",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news22.jpg",
+        "views": 2975
+    },
+    {
+        "id": "23",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano",
+        "date": "2025-04-15",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news23.jpg",
+        "views": 2540
+    },
+    {
+        "id": "24",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas",
+        "date": "2022-10-19",
+        "category": "Carreira",
+        "thumbnail": "/images/news24.jpg",
+        "views": 132
+    },
+    {
+        "id": "25",
+        "title": "Novas Tendências no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este con",
+        "date": "2025-06-05",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news25.jpg",
+        "views": 1311
+    },
+    {
+        "id": "26",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este con",
+        "date": "2023-11-13",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news26.jpg",
+        "views": 2116
+    },
+    {
+        "id": "27",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda mudanças ",
+        "date": "2024-10-12",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news27.jpg",
+        "views": 343
+    },
+    {
+        "id": "28",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda",
+        "date": "2024-02-27",
+        "category": "Finanças",
+        "thumbnail": "/images/news28.jpg",
+        "views": 4326
+    },
+    {
+        "id": "29",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda mu",
+        "date": "2025-08-13",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news29.jpg",
+        "views": 2587
+    },
+    {
+        "id": "30",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo ",
+        "date": "2024-11-25",
+        "category": "Educação",
+        "thumbnail": "/images/news30.jpg",
+        "views": 765
+    },
+    {
+        "id": "31",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplica",
+        "date": "2024-12-30",
+        "category": "Educação",
+        "thumbnail": "/images/news31.jpg",
+        "views": 511
+    },
+    {
+        "id": "32",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas",
+        "date": "2022-01-09",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news32.jpg",
+        "views": 933
+    },
+    {
+        "id": "33",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidian",
+        "date": "2022-04-11",
+        "category": "Educação",
+        "thumbnail": "/images/news33.jpg",
+        "views": 3232
+    },
+    {
+        "id": "34",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas ",
+        "date": "2022-10-26",
+        "category": "Educação",
+        "thumbnail": "/images/news34.jpg",
+        "views": 988
+    },
+    {
+        "id": "35",
+        "title": "Novas Tendências no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicad",
+        "date": "2022-03-04",
+        "category": "Finanças",
+        "thumbnail": "/images/news35.jpg",
+        "views": 4439
+    },
+    {
+        "id": "36",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidi",
+        "date": "2024-08-16",
+        "category": "Educação",
+        "thumbnail": "/images/news36.jpg",
+        "views": 893
+    },
+    {
+        "id": "37",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abord",
+        "date": "2024-11-06",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news37.jpg",
+        "views": 1393
+    },
+    {
+        "id": "38",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidi",
+        "date": "2024-04-16",
+        "category": "Carreira",
+        "thumbnail": "/images/news38.jpg",
+        "views": 4473
+    },
+    {
+        "id": "39",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda m",
+        "date": "2022-05-30",
+        "category": "Carreira",
+        "thumbnail": "/images/news39.jpg",
+        "views": 3911
+    },
+    {
+        "id": "40",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Es",
+        "date": "2022-08-09",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news40.jpg",
+        "views": 801
+    },
+    {
+        "id": "41",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abor",
+        "date": "2024-12-05",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news41.jpg",
+        "views": 4939
+    },
+    {
+        "id": "42",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Est",
+        "date": "2023-02-09",
+        "category": "Carreira",
+        "thumbnail": "/images/news42.jpg",
+        "views": 917
+    },
+    {
+        "id": "43",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abo",
+        "date": "2022-01-15",
+        "category": "Educação",
+        "thumbnail": "/images/news43.jpg",
+        "views": 3347
+    },
+    {
+        "id": "44",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas ",
+        "date": "2023-08-06",
+        "category": "Economia",
+        "thumbnail": "/images/news44.jpg",
+        "views": 1348
+    },
+    {
+        "id": "45",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicada",
+        "date": "2023-01-14",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news45.jpg",
+        "views": 4121
+    },
+    {
+        "id": "46",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicada",
+        "date": "2022-08-16",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news46.jpg",
+        "views": 2200
+    },
+    {
+        "id": "47",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda muda",
+        "date": "2024-06-27",
+        "category": "Negócios",
+        "thumbnail": "/images/news47.jpg",
+        "views": 2686
+    },
+    {
+        "id": "48",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no",
+        "date": "2022-10-06",
+        "category": "Carreira",
+        "thumbnail": "/images/news48.jpg",
+        "views": 3210
+    },
+    {
+        "id": "49",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo ab",
+        "date": "2024-06-18",
+        "category": "Economia",
+        "thumbnail": "/images/news49.jpg",
+        "views": 1418
+    },
+    {
+        "id": "50",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúd",
+        "date": "2023-04-30",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news50.jpg",
+        "views": 3194
+    },
+    {
+        "id": "51",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abord",
+        "date": "2025-05-27",
+        "category": "Negócios",
+        "thumbnail": "/images/news51.jpg",
+        "views": 3492
+    },
+    {
+        "id": "52",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda mudanças",
+        "date": "2024-07-01",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news52.jpg",
+        "views": 3516
+    },
+    {
+        "id": "53",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda mu",
+        "date": "2023-08-25",
+        "category": "Economia",
+        "thumbnail": "/images/news53.jpg",
+        "views": 374
+    },
+    {
+        "id": "54",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abord",
+        "date": "2025-05-22",
+        "category": "Economia",
+        "thumbnail": "/images/news54.jpg",
+        "views": 4150
+    },
+    {
+        "id": "55",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no",
+        "date": "2025-01-16",
+        "category": "Carreira",
+        "thumbnail": "/images/news55.jpg",
+        "views": 4608
+    },
+    {
+        "id": "56",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo",
+        "date": "2022-07-08",
+        "category": "Carreira",
+        "thumbnail": "/images/news56.jpg",
+        "views": 2846
+    },
+    {
+        "id": "57",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo ",
+        "date": "2023-11-02",
+        "category": "Educação",
+        "thumbnail": "/images/news57.jpg",
+        "views": 3246
+    },
+    {
+        "id": "58",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplica",
+        "date": "2022-10-30",
+        "category": "Economia",
+        "thumbnail": "/images/news58.jpg",
+        "views": 4934
+    },
+    {
+        "id": "59",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no ",
+        "date": "2023-01-14",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news59.jpg",
+        "views": 2718
+    },
+    {
+        "id": "60",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda muda",
+        "date": "2023-03-19",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news60.jpg",
+        "views": 2579
+    },
+    {
+        "id": "61",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo abo",
+        "date": "2024-07-20",
+        "category": "Educação",
+        "thumbnail": "/images/news61.jpg",
+        "views": 1979
+    },
+    {
+        "id": "62",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidi",
+        "date": "2024-05-14",
+        "category": "Carreira",
+        "thumbnail": "/images/news62.jpg",
+        "views": 1615
+    },
+    {
+        "id": "63",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas",
+        "date": "2023-03-07",
+        "category": "Carreira",
+        "thumbnail": "/images/news63.jpg",
+        "views": 605
+    },
+    {
+        "id": "64",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no co",
+        "date": "2024-07-28",
+        "category": "Economia",
+        "thumbnail": "/images/news64.jpg",
+        "views": 427
+    },
+    {
+        "id": "65",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicada",
+        "date": "2025-10-07",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news65.jpg",
+        "views": 1875
+    },
+    {
+        "id": "66",
+        "title": "Novas Tendências no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cot",
+        "date": "2022-05-05",
+        "category": "Negócios",
+        "thumbnail": "/images/news66.jpg",
+        "views": 2789
+    },
+    {
+        "id": "67",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no c",
+        "date": "2022-09-02",
+        "category": "Educação",
+        "thumbnail": "/images/news67.jpg",
+        "views": 4999
+    },
+    {
+        "id": "68",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda",
+        "date": "2025-11-04",
+        "category": "Carreira",
+        "thumbnail": "/images/news68.jpg",
+        "views": 4370
+    },
+    {
+        "id": "69",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no",
+        "date": "2023-06-22",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news69.jpg",
+        "views": 722
+    },
+    {
+        "id": "70",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda ",
+        "date": "2025-09-11",
+        "category": "Carreira",
+        "thumbnail": "/images/news70.jpg",
+        "views": 1747
+    },
+    {
+        "id": "71",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda ",
+        "date": "2024-08-24",
+        "category": "Educação",
+        "thumbnail": "/images/news71.jpg",
+        "views": 1746
+    },
+    {
+        "id": "72",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Es",
+        "date": "2022-07-16",
+        "category": "Carreira",
+        "thumbnail": "/images/news72.jpg",
+        "views": 1512
+    },
+    {
+        "id": "73",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo aborda",
+        "date": "2025-09-30",
+        "category": "Negócios",
+        "thumbnail": "/images/news73.jpg",
+        "views": 1864
+    },
+    {
+        "id": "74",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano. Este conteúdo",
+        "date": "2023-12-07",
+        "category": "Finanças",
+        "thumbnail": "/images/news74.jpg",
+        "views": 4359
+    },
+    {
+        "id": "75",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas.",
+        "date": "2025-12-19",
+        "category": "Educação",
+        "thumbnail": "/images/news75.jpg",
+        "views": 1389
+    },
+    {
+        "id": "76",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2024-10-04",
+        "category": "Carreira",
+        "thumbnail": "/images/news76.jpg",
+        "views": 3476
+    },
+    {
+        "id": "77",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2024-10-13",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news77.jpg",
+        "views": 2249
+    },
+    {
+        "id": "78",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-05-24",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news78.jpg",
+        "views": 2046
+    },
+    {
+        "id": "79",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-01-03",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news79.jpg",
+        "views": 4458
+    },
+    {
+        "id": "80",
+        "title": "Novas Tendências no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-03-18",
+        "category": "Economia",
+        "thumbnail": "/images/news80.jpg",
+        "views": 2653
+    },
+    {
+        "id": "81",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas.",
+        "date": "2024-12-21",
+        "category": "Carreira",
+        "thumbnail": "/images/news81.jpg",
+        "views": 516
+    },
+    {
+        "id": "82",
+        "title": "Novas Tendências no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-02-23",
+        "category": "Finanças",
+        "thumbnail": "/images/news82.jpg",
+        "views": 458
+    },
+    {
+        "id": "83",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2022-09-14",
+        "category": "Economia",
+        "thumbnail": "/images/news83.jpg",
+        "views": 146
+    },
+    {
+        "id": "84",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais.",
+        "date": "2023-12-26",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news84.jpg",
+        "views": 639
+    },
+    {
+        "id": "85",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano",
+        "date": "2022-10-19",
+        "category": "Educação",
+        "thumbnail": "/images/news85.jpg",
+        "views": 4247
+    },
+    {
+        "id": "86",
+        "title": "Avanço da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2024-08-30",
+        "category": "Negócios",
+        "thumbnail": "/images/news86.jpg",
+        "views": 2485
+    },
+    {
+        "id": "87",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-01-08",
+        "category": "Economia",
+        "thumbnail": "/images/news87.jpg",
+        "views": 2370
+    },
+    {
+        "id": "88",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2023-10-15",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news88.jpg",
+        "views": 2807
+    },
+    {
+        "id": "89",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano",
+        "date": "2024-05-27",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news89.jpg",
+        "views": 1879
+    },
+    {
+        "id": "90",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2023-01-27",
+        "category": "Economia",
+        "thumbnail": "/images/news90.jpg",
+        "views": 4338
+    },
+    {
+        "id": "91",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas.",
+        "date": "2023-09-07",
+        "category": "Educação",
+        "thumbnail": "/images/news91.jpg",
+        "views": 575
+    },
+    {
+        "id": "92",
+        "title": "Startups em Destaque no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas.",
+        "date": "2022-07-29",
+        "category": "Economia",
+        "thumbnail": "/images/news92.jpg",
+        "views": 3108
+    },
+    {
+        "id": "93",
+        "title": "Inovação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-07-03",
+        "category": "Economia",
+        "thumbnail": "/images/news93.jpg",
+        "views": 2243
+    },
+    {
+        "id": "94",
+        "title": "Educação do Futuro no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-02-07",
+        "category": "Sustentabilidade",
+        "thumbnail": "/images/news94.jpg",
+        "views": 2624
+    },
+    {
+        "id": "95",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-10-11",
+        "category": "Negócios",
+        "thumbnail": "/images/news95.jpg",
+        "views": 1325
+    },
+    {
+        "id": "96",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas.",
+        "date": "2022-01-10",
+        "category": "Carreira",
+        "thumbnail": "/images/news96.jpg",
+        "views": 2601
+    },
+    {
+        "id": "97",
+        "title": "Transformação Digital no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas.",
+        "date": "2025-06-24",
+        "category": "Negócios",
+        "thumbnail": "/images/news97.jpg",
+        "views": 3855
+    },
+    {
+        "id": "98",
+        "title": "Impacto da Tecnologia no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2024-08-02",
+        "category": "Negócios",
+        "thumbnail": "/images/news98.jpg",
+        "views": 3688
+    },
+    {
+        "id": "99",
+        "title": "Mercado em Transformação no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2025-09-11",
+        "category": "Finanças",
+        "thumbnail": "/images/news99.jpg",
+        "views": 931
+    },
+    {
+        "id": "100",
+        "title": "Crescimento do Setor no Brasil",
+        "summary": "Análise sobre mudanças recentes e seus impactos.",
+        "content": "Este conteúdo aborda mudanças relevantes no cenário atual, destacando impactos econômicos, tecnológicos e sociais. Especialistas analisam tendências, desafios e oportunidades que surgem com a evolução constante do mercado e das soluções digitais aplicadas no cotidiano.",
+        "date": "2022-06-28",
+        "category": "Tecnologia",
+        "thumbnail": "/images/news100.jpg",
+        "views": 4082
+    }
+]
