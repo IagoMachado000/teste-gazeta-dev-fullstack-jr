@@ -1,6 +1,14 @@
 import styles from "./Sidebar.module.css";
 
-export default function Sidebar() {
+interface SidebarProps {
+    selectedCategory: string | null;
+    onCategoryChange: (category: string | null) => void;
+}
+
+export default function Sidebar({
+    selectedCategory,
+    onCategoryChange,
+}: SidebarProps) {
     const categories = [
         "Tecnologia",
         "Política",
@@ -14,9 +22,30 @@ export default function Sidebar() {
             <div className={styles.widget}>
                 <h4 className={styles.title}>CATEGORIAS</h4>
                 <ul className={styles.list}>
+                    {/* Opção para limpar o filtro */}
+                    <li>
+                        <button
+                            onClick={() => onCategoryChange(null)}
+                            className={
+                                !selectedCategory ? styles.activeCategory : ""
+                            }
+                        >
+                            Todas as notícias
+                        </button>
+                    </li>
+
                     {categories.map((cat) => (
                         <li key={cat}>
-                            <a href="#">{cat}</a>
+                            <button
+                                onClick={() => onCategoryChange(cat)}
+                                className={
+                                    selectedCategory === cat
+                                        ? styles.activeCategory
+                                        : ""
+                                }
+                            >
+                                {cat}
+                            </button>
                         </li>
                     ))}
                 </ul>
