@@ -65,9 +65,14 @@
 .mostReadItem {
     display: flex;
     gap: 1rem;
-    padding: 0.8rem 0;
+    padding: 0.8rem;
     border-bottom: 1px solid #eee;
     align-items: center;
+}
+
+.listItem:hover,
+.mostReadItem:hover {
+    background-color: #fafafa;
 }
 
 .marker,
