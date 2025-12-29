@@ -1,0 +1,102 @@
+@media (max-width: 991px) {
+    .sidebar {
+        position: fixed;
+        top: 73px;
+        right: -100%;
+        width: 300px;
+        height: calc(100vh - 73px);
+        background-color: #fff;
+        z-index: 1500;
+        transition: right 0.3s ease-in-out;
+        padding: 1.5rem;
+        overflow-y: auto;
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .sidebarOpen {
+        right: 0;
+    }
+
+    .overlay {
+        position: fixed;
+        top: 73px;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.4);
+        z-index: 1400;
+    }
+}
+
+@media (min-width: 992px) {
+    .sidebar {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        position: static;
+        width: auto;
+        height: auto;
+        box-shadow: none;
+        padding: 0;
+    }
+}
+
+.widget {
+    background-color: #fff;
+    border: 1px solid #eee;
+    padding: 1.5rem;
+    border-radius: 4px;
+}
+
+.title {
+    font-size: 0.85rem;
+    font-weight: 800;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 1.2rem;
+    border-left: 4px solid var(--primary-blue);
+    padding-left: 10px;
+}
+
+.listItem,
+.mostReadItem {
+    display: flex;
+    gap: 1rem;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid #eee;
+    align-items: center;
+}
+
+.marker,
+.rank {
+    font-size: 1.2rem;
+    font-weight: 900;
+    color: #ccc;
+    min-width: 25px;
+    text-align: center;
+}
+
+.categoryButton {
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    font-size: 0.95rem;
+    color: #555;
+    cursor: pointer;
+}
+
+.activeCategory {
+    color: var(--primary-blue);
+    font-weight: bold;
+}
+
+.mostReadTitle {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #333;
+    text-decoration: none;
+}

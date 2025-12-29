@@ -2,37 +2,75 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 0;
-    border-bottom: 2px solid var(--primary-blue);
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 4px;
     margin-bottom: 1.5rem;
+    border: 1px solid #eee;
+}
+
+.group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .label {
-    font-weight: bold;
-    font-size: 0.9rem;
-}
-
-.controls {
-    display: flex;
-    gap: 1rem;
-}
-
-.sortButton {
-    background: none;
-    border: 1px solid #ccc;
-    padding: 0.4rem 0.8rem;
-    cursor: pointer;
-    border-radius: 4px;
     font-size: 0.8rem;
+    font-weight: 800;
+    color: #666;
+}
+
+.select {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 0.9rem;
+    cursor: pointer;
+    outline: none;
+}
+
+.select:focus {
+    border-color: var(--primary-blue);
+}
+
+.directionButton {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 500;
     transition: all 0.2s;
 }
 
-.sortButton:hover {
-    background-color: var(--light-gray);
+.directionButton:hover {
+    background-color: #eef2f7;
+    border-color: var(--primary-blue);
 }
 
-.active {
-    background-color: var(--primary-blue);
-    color: white;
-    border-color: var(--primary-blue);
+@media (max-width: 575px) {
+    .filterBar {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 1rem;
+    }
+
+    .group {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    .select {
+        width: 100%;
+    }
+
+    .directionButton {
+        width: 100%;
+        text-align: center;
+        padding: 0.57rem;
+    }
 }

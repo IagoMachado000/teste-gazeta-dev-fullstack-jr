@@ -16,22 +16,27 @@ body {
     line-height: 1.6;
 }
 
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+}
+
 .container {
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 0 1rem;
 }
 
-/* Layout das duas colunas conforme o seu esboço */
 .home-wrapper {
     display: grid;
-    grid-template-columns: 1fr 300px; /* 1fr ocupa o resto, sidebar fixa em 300px */
+    grid-template-columns: 1fr 300px;
     gap: 2rem;
     margin-top: 2rem;
 }
 
-/* Responsividade: No mobile, a sidebar vai para baixo */
-@media (max-width: 768px) {
+@media (max-width: 991px) {
     .home-wrapper {
         grid-template-columns: 1fr;
     }
@@ -42,4 +47,35 @@ body {
     padding: 1.5rem 0;
     display: flex;
     gap: 1rem;
+}
+
+.load-more-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3rem 0;
+    gap: 1rem;
+}
+
+.load-more-button {
+    background-color: transparent;
+    border: 2px solid var(--primary-blue);
+    color: var(--primary-blue);
+    padding: 1rem 2.5rem;
+    font-weight: 800;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    letter-spacing: 1px;
+}
+
+.load-more-button:hover {
+    background-color: var(--primary-blue);
+    color: white;
+}
+
+.load-more-info {
+    font-size: 0.85rem;
+    color: #888;
 }

@@ -2,21 +2,27 @@ import Image from "next/image";
 import Link from "next/link";
 import { Article } from "@/types/article";
 import styles from "./NewsCard.module.css";
+import { formatBrazilianDate } from "@/utils/dateFormatter";
 
 interface NewsCardProps {
     article: Article;
+    isPriority?: boolean;
 }
 
-export default function NewsCard({ article }: NewsCardProps) {
+export default function NewsCard({
+    article,
+    isPriority = false,
+}: NewsCardProps) {
     return (
         <Link href={`/article/${article.id}`} className={styles.card}>
             <div className={styles.imageWrapper}>
-                {/* Usamos o componente Image do Next para performance */}
                 <Image
                     src={article.thumbnail}
                     alt={article.title}
                     fill
+                    priority={isPriority}
                     style={{ objectFit: "cover" }}
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 300px, 250px"
                 />
             </div>
 
@@ -27,7 +33,7 @@ export default function NewsCard({ article }: NewsCardProps) {
 
                 <div className={styles.footer}>
                     <time dateTime={article.date}>
-                        {new Date(article.date).toLocaleDateString("pt-BR")}
+                        {formatBrazilianDate(article.date)}
                     </time>
                     {article.views && (
                         <span> • {article.views} visualizações</span>
