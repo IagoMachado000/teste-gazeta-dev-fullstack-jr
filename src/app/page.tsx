@@ -3,17 +3,33 @@
 import { useState, useMemo } from "react";
 import articlesData from "@/data/articles.json";
 import NewsCard from "@/components/NewsCard";
-import FilterBar from "@/components/FilterBar";
+import FilterBar, { SortDirection, SortField } from "@/components/FilterBar";
 import Sidebar from "@/components/Sidebar";
 import { Article } from "@/types/article";
 
 export default function Home() {
-    const [order, setOrder] = useState<"asc" | "desc">("desc");
+    const ITEMS_PER_PAGE = 10;
+    const [visibleCount, setVisibleCount] = useState(ITEMS_PER_PAGE);
+
+    const [sortBy, setSortBy] = useState<SortField>("date");
+    const [direction, setDirection] = useState<SortDirection>("desc");
+
     const [selectedCategory, setSelectedCategory] = useState<string | null>(
         null
     );
 
-    // Lógica de ordenação: memorizada para performance
+    const dynamicCategories = useMemo(() => {
+        const allCategories = articlesData.map((article) => article.category);
+
+        const uniqueCategories = Array.from(new Set(allCategories));
+
+        return uniqueCategories.sort();
+    }, []);
+
+    const mostReadArticles = useMemo(() => {
+        return [...articlesData].sort((a, b) => b.views - a.views).slice(0, 5);
+    }, []);
+
     const filteredAndSortedArticles = useMemo(() => {
         let result = [...articlesData];
 
@@ -24,17 +40,46 @@ export default function Home() {
         }
 
         return result.sort((a, b) => {
-            const dateA = new Date(a.date).getTime();
-            const dateB = new Date(b.date).getTime();
-            return order === "desc" ? dateB - dateA : dateA - dateB;
+            let valA, valB;
+
+            if (sortBy === "date") {
+                valA = new Date(a.date).getTime();
+                valB = new Date(b.date).getTime();
+            } else {
+                valA = a.views || 0;
+                valB = b.views || 0;
+            }
+
+            if (direction === "desc") {
+                return valB - valA; // Maior para menor
+            } else {
+                return valA - valB; // Menor para maior
+            }
         });
-    }, [order, selectedCategory]);
+    }, [sortBy, direction, selectedCategory]);
+
+    const visibleArticles = useMemo(() => {
+        return filteredAndSortedArticles.slice(0, visibleCount);
+    }, [filteredAndSortedArticles, visibleCount]);
+
+    const handleLoadMore = () => {
+        setVisibleCount((prev) => prev + ITEMS_PER_PAGE);
+    };
+
+    const toggleDirection = () => {
+        setDirection((prev) => (prev === "desc" ? "asc" : "desc"));
+    };
 
     return (
         <div className="home-wrapper">
             {/* Coluna Principal: Listagem de Notícias */}
             <section className="news-feed">
-                <FilterBar order={order} onOrderChange={setOrder} />
+                <FilterBar
+                    sortBy={sortBy}
+                    direction={direction}
+                    onSortFieldChange={setSortBy}
+                    onDirectionToggle={toggleDirection}
+                />
 
                 {selectedCategory && (
                     <div style={{ marginBottom: "1rem", fontSize: "0.9rem" }}>
@@ -56,18 +101,39 @@ export default function Home() {
                 )}
 
                 <div className="articles-list">
-                    {filteredAndSortedArticles.length > 0 ? (
-                        filteredAndSortedArticles.map((article: Article) => (
-                            <NewsCard key={article.id} article={article} />
+                    {visibleArticles.length > 0 ? (
+                        visibleArticles.map((article: Article, index) => (
+                            <NewsCard
+                                key={article.id}
+                                article={article}
+                                isPriority={index < 2}
+                            />
                         ))
                     ) : (
                         <p>Nenhuma notícia encontrada nesta categoria.</p>
                     )}
                 </div>
+
+                {visibleCount < filteredAndSortedArticles.length && (
+                    <div className="load-more-container">
+                        <button
+                            className="load-more-button"
+                            onClick={handleLoadMore}
+                        >
+                            CARREGAR MAIS NOTÍCIAS
+                        </button>
+                        <p className="load-more-info">
+                            Mostrando {visibleCount} de{" "}
+                            {filteredAndSortedArticles.length} notícias
+                        </p>
+                    </div>
+                )}
             </section>
 
             {/* Coluna Lateral: Sidebar */}
             <Sidebar
+                categories={dynamicCategories}
+                mostRead={mostReadArticles}
                 selectedCategory={selectedCategory}
                 onCategoryChange={setSelectedCategory}
             />

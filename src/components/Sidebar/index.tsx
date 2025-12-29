@@ -1,66 +1,96 @@
+"use client";
+
+import Link from "next/link";
 import styles from "./Sidebar.module.css";
+import { Article } from "@/types/article";
+import { useSidebar } from "@/context/SidebarContext";
 
 interface SidebarProps {
+    categories: string[];
+    mostRead: Article[];
     selectedCategory: string | null;
     onCategoryChange: (category: string | null) => void;
 }
 
 export default function Sidebar({
+    categories,
+    mostRead,
     selectedCategory,
     onCategoryChange,
 }: SidebarProps) {
-    const categories = [
-        "Tecnologia",
-        "Política",
-        "Economia",
-        "Esportes",
-        "Cultura",
-    ];
+    const { isOpen, closeSidebar } = useSidebar();
 
     return (
-        <aside className={styles.sidebar}>
-            <div className={styles.widget}>
-                <h4 className={styles.title}>CATEGORIAS</h4>
-                <ul className={styles.list}>
-                    {/* Opção para limpar o filtro */}
-                    <li>
-                        <button
-                            onClick={() => onCategoryChange(null)}
-                            className={
-                                !selectedCategory ? styles.activeCategory : ""
-                            }
-                        >
-                            Todas as notícias
-                        </button>
-                    </li>
+        <>
+            {/* O Overlay só existe no mobile quando aberto */}
+            {isOpen && (
+                <div className={styles.overlay} onClick={closeSidebar} />
+            )}
 
-                    {categories.map((cat) => (
-                        <li key={cat}>
+            <aside
+                className={`${styles.sidebar} ${
+                    isOpen ? styles.sidebarOpen : ""
+                }`}
+            >
+                <div className={styles.widget}>
+                    <h4 className={styles.title}>categorias</h4>
+                    <ul className={styles.list}>
+                        <li className={styles.listItem}>
                             <button
-                                onClick={() => onCategoryChange(cat)}
-                                className={
-                                    selectedCategory === cat
+                                onClick={() => {
+                                    onCategoryChange(null);
+                                    closeSidebar();
+                                }}
+                                className={`${styles.categoryButton} ${
+                                    !selectedCategory
                                         ? styles.activeCategory
                                         : ""
-                                }
+                                }`}
                             >
-                                {cat}
+                                Todas as notícias
                             </button>
                         </li>
-                    ))}
-                </ul>
-            </div>
+                        {categories.map((cat) => (
+                            <li key={cat} className={styles.listItem}>
+                                <button
+                                    onClick={() => {
+                                        onCategoryChange(cat);
+                                        closeSidebar();
+                                    }}
+                                    className={`${styles.categoryButton} ${
+                                        selectedCategory === cat
+                                            ? styles.activeCategory
+                                            : ""
+                                    }`}
+                                >
+                                    {cat}
+                                </button>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
 
-            <div className={`${styles.widget} ${styles.newsletter}`}>
-                <h4 className={styles.title}>NEWSLETTER</h4>
-                <p>Receba o melhor da Gazeta no seu e-mail.</p>
-                <input
-                    type="email"
-                    placeholder="Seu melhor e-mail"
-                    className={styles.input}
-                />
-                <button className={styles.button}>INSCREVER</button>
-            </div>
-        </aside>
+                <div className={styles.widget}>
+                    <h4 className={styles.title}>mais lidas</h4>
+                    <ul className={styles.mostReadList}>
+                        {mostRead.map((article, index) => (
+                            <li
+                                key={article.id}
+                                className={styles.mostReadItem}
+                            >
+                                <span className={styles.rank}>{index + 1}</span>
+                                <Link
+                                    href={`/article/${article.id}`}
+                                    className={styles.mostReadTitle}
+                                    onClick={closeSidebar}
+                                >
+                                    {article.title}
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+            </aside>
+        </>
     );
 }
